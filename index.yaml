@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  aws-hub:
+  - apiVersion: v1
+    created: "2019-11-24T17:30:31.355924-08:00"
+    description: JupyterHub entrypoint to AWS EC2 on EKS
+    digest: ec5cd173c6c7b78380bf425398d7177cce5893fadc69526ab8e971e153017ebb
+    maintainers:
+    - email: stevengs@uw.edu
+      name: Steven Stetzler
+    name: aws-hub
+    urls:
+    - https://stevenstetzler.com/helm-charts/aws-hub-0.0.1.tgz
+    version: 0.0.1
+generated: "2019-11-24T17:30:31.345818-08:00"
